@@ -1,5 +1,7 @@
 ## Jansen Rinck
 
+Geospatial data science and wildfire modeling at the University of Montana.
+
 I'm a graduate research assistant at the University of Montana, working toward a Master of Science in Computer Science (expected August 2028). My research combines machine learning with wildland fire behavior and spread modeling, funded through the National Science Foundation's SMART FIRES project.
 
 I come from a forestry background, with some wildland fire experience and a red card, most recently as a forester for the Confederated Salish and Kootenai Tribes. That is why I care about geospatial data. Nearly every fire question is a spatial one: where it starts, what it burns through, and how terrain and weather push it. Maps, satellite imagery, and models let me ask those questions across a whole landscape.
