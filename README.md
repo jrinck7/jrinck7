@@ -2,6 +2,15 @@
 
 Geospatial data science and wildfire modeling at the University of Montana.
 
+I came to this work from forestry. I have a background in forestry and some wildland
+fire experience, including a red card, so I know fire as something that happens on a
+real landscape before it becomes a model input.
+
+What keeps me in geospatial data is that nearly every fire question is a spatial one:
+where it starts, what it burns through, and how terrain and weather push it. Maps,
+satellite imagery, and models let me ask those questions across a whole landscape
+instead of one slope at a time.
+
 I work on fire behavior simulation and the spatial analysis around it — preparing
 model inputs from field and weather observations, running simulations, and turning
 the output into maps and figures that answer a question.
