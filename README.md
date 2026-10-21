@@ -1,28 +1,15 @@
 ## Jansen Rinck
 
-Geospatial data science and wildfire modeling at the University of Montana.
+I'm a graduate research assistant at the University of Montana, working toward a Master of Science in Computer Science (expected August 2028). My research combines machine learning with wildland fire behavior and spread modeling, funded through the National Science Foundation's SMART FIRES project.
 
-I came to this work from forestry. I have a background in forestry and some wildland
-fire experience, including a red card, so I know fire as something that happens on a
-real landscape before it becomes a model input.
+I come from a forestry background, most recently as a forester for the Confederated Salish and Kootenai Tribes. Today I focus on testing how well wildfire models match real fires. My QUIC-Fire poster, presented at the SMART FIRES all-hands meeting in September 2026, used statistical analysis to validate the model against real wildfire observations, and found that it consistently underperformed.
 
-What keeps me in geospatial data is that nearly every fire question is a spatial one:
-where it starts, what it burns through, and how terrain and weather push it. Maps,
-satellite imagery, and models let me ask those questions across a whole landscape
-instead of one slope at a time.
+**Currently:** QUIC-Fire input pipelines, resolution and thread benchmarking, and the mapping tools around model runs. I'm also looking at where natural wildfire ignitions concentrate by fuel type across ecoregions of the contiguous United States, using 30+ years of federal fire occurrence records.
 
-I work on fire behavior simulation and the spatial analysis around it — preparing
-model inputs from field and weather observations, running simulations, and turning
-the output into maps and figures that answer a question.
+**Programming and data:** Python (GeoPandas, rasterio, xarray), Java, C, R, and Structured Query Language
 
-**Currently**
-- Coupled fire–atmosphere simulation with QUIC-Fire: input pipelines, resolution and
-  thread benchmarking, and the GIS tooling around model runs
-- Where natural wildfire ignitions concentrate by fuel type across CONUS ecoregions,
-  using 30+ years of federal fire occurrence records
+**Geospatial:** Google Earth Engine, ArcGIS Pro, QGIS, CloudCompare, remote sensing, and point cloud processing, including light detection and ranging
 
-**Tools** Python · GeoPandas · rasterio · xarray · QGIS and PyQGIS · ArcGIS Pro ·
-QUIC-Fire · Docker
+**Fire behavior:** QUIC-Fire, FlamMap, and FARSITE
 
-**Interests** wildfire behavior and risk · spatial statistics · cartography ·
-reproducible geospatial workflows
+I'm interested in connecting with fire agencies, research labs, and companies working on wildfire risk and modeling.
